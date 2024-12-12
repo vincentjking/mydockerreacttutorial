@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       <div>
-        <h1>my Docker React Tutorial</h1>
+        <h1>my Docker React Tutorial v0.02</h1>
       </div>
       <div>
         <a href="https://vite.dev" target="_blank">
